@@ -1,4 +1,4 @@
-# You Can See Clearly Now !
+# Awesome Underwater Image Enhancement
 By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 
 ## 1 Description
